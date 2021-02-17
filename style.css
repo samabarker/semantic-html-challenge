@@ -9,3 +9,11 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+table {
+  border: 1px solid black;
+}
+
+tr {
+  border: 1px solid black;
+}
