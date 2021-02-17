@@ -22,8 +22,12 @@ table {
   text-align: center;
 }
 
+tr {
+  background-image: url("./assets/noise.png")
+}
+
 tr:nth-child(even) {
-  background-color: #ff33cc;
+  background-color: rgba(255, 51, 204, 1);
 }
 
 tr:nth-child(odd) {
